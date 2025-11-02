@@ -7,7 +7,7 @@
 ## Command Install :
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/DonzOfiicialXd/Pterodactyl-Theme-Autoinstaller/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/donzxdxy/Pterodactyl-Theme-Autoinstaller/main/install.sh)
 ```
 
 ## Fitur Tools :
@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/DonzOfiicialXd/Pterodactyl-Them
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : donzyxd)
+ (Kode Token : donzxd)
 
 ## System Support :
 
